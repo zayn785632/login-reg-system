@@ -2,7 +2,7 @@
 $HOSTNAME= 'localhost';
 $USERNAME= 'root';
 $PASSWORD= '';
-$DATABASE='signupforms';
+$DATABASE='your database name';
 
 
 
